@@ -5,6 +5,7 @@ class Animal(ABC):
 
     # abstract method
 	# should be implemented by all sub-classes
+	@abstractmethod
 	def move(self):
 		pass
 
