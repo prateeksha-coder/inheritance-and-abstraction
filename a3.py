@@ -1,5 +1,5 @@
 # import necessary packages
-from abc import ABC # abstractmethod
+from abc import ABC,abstractmethod
 # create a base class
 class Animal(ABC):
 
