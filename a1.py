@@ -24,3 +24,6 @@ a = Employee('Penguin', 20210401, 15000, "Intern")
 
 # calling a function of the class Person using its instance
 a.display()
+print(a.salary)
+print(a.post)
+
